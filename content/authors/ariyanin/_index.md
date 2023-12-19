@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nurul Ariyani
+title: Muhammed
 
 # Is this the primary user of the site?
 superuser: true
