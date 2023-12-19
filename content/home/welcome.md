@@ -21,7 +21,7 @@ design:
 
 <center>{{< figure src="csecudsg.jpg" caption="Team Members" >}}</center>
 
-Natural Language Processing (NLP) is the primary domain of our research, and this group led by Dr. Abu Nowshed Chy. Our group was founded in 2020, and we are proud to have won top honors in global competitions like CASE@EMNLP, CEREX@FIRE, and CLEF.
+Natural Language Processing (NLP) is the primary domain of our research, and this group led by [Dr. Abu Nowshed Chy](https://cu.ac.bd/public_profile/index.php?ein=5905). Our group was founded in 2020, and we are proud to have won top honors in global competitions like CASE@EMNLP, CEREX@FIRE, and CLEF.
 
 We conduct [active research](research) in diverse NLP topics such as Information Extraction, Multimodal NLP, Multilingual and Low-resource NLP, Lexical Semantics, Computational Linguistics, and Natural Language Processing.
 Check our [team members' websites](people) and [publications](publication) to find out more! 
