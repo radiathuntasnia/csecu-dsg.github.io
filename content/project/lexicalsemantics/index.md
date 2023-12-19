@@ -45,6 +45,8 @@ slides: ""
 ---
 Publications/Working:
 
+  - Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy, Md Zia Ullah, Masaki Aono (2023). [Leveraging contextual representations with BiLSTM-based regressor for lexical complexity prediction. Elsevier NLP 2023](https://www.sciencedirect.com/science/article/pii/S2949719123000365?via%3Dihub) ECIR 2024
+
   - Nabila Ayman Nishat, Md. Akram Hossain, Abdul Aziz, Rokan Uddin Faruqui, Abu Nowshed Chy (2023). [BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali Texts.](http://csecu-dsg.github.io/publication/) LREC-COLLING 2024
 
   - Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy (2021). [CSECU-DSG at SemEval-2021 Task 1: Fusion of Transformer Models for Lexical Complexity Prediction.](http://csecu-dsg.github.io/publication/) SemEval 2021
