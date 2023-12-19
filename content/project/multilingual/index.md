@@ -3,7 +3,7 @@
 
 title: "Multilingual and Low Resource NLP"
 summary: "Multilingual and low-resource NLP research addresses the challenges of working with languages that have limited linguistic resources, expanding the reach of natural language processing technologies to diverse linguistic contexts."
-authors: [Md. Akram Hossain,Abdul Aziz,Abu Nowshed Chy]
+authors: [Abdul Aziz,Md. Akram Hossain,Abu Nowshed Chy]
 tags: [mlrp]
 categories: []
 date: 2022-07-01T21:25:56Z
