@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: 
   Natural Language Processing @ University of Chittagong
 subtitle:
-  "**Welcome to CSECU-DSG!** We are the first-ever [Data Science research group](https://csecudsg.github.io/) at the [University of Chittagong](https://cu.ac.bd/)"
+  "**Welcome to CSECU-DSG!** We are the first-ever [Data Science research group](https://csecu-dsg.github.io/) at the [University of Chittagong](https://cu.ac.bd/)"
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
