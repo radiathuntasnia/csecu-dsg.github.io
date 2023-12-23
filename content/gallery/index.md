@@ -12,12 +12,12 @@ content:
     {{< gallery album="award" lightbox="true" resize_options="450x450" >}}
   design:
     columns: '1'
-    # Toggle between the various page layout types.
-    #   1 = List
-    #   2 = Compact
-    #   3 = Card
-    #   5 = Showcase
-    view: 3
+    # # Toggle between the various page layout types.
+    # #   1 = List
+    # #   2 = Compact
+    # #   3 = Card
+    # #   5 = Showcase
+    # view: 3
 
 gallery_item:
   - album: award
