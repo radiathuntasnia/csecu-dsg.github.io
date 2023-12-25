@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Text Simplification
+- Natural Language processing
 
 # education:
 #   courses:
