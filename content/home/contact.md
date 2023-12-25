@@ -16,6 +16,21 @@ design:
   columns: '2'
 
 content:
+  email: csecudsg@gmail.com
+  # phone: +49-7071-29-73140
+  address:
+    street: University of Chittagong
+    # - 'Department of Computer Science and Engineering'
+    city: Chattogram
+    postcode: '4331'
+    country: Bangladesh
+    country_code: BD
+  coordinates:
+    latitude: '22.4705'
+    longitude: '91.7853'
+  office_hours:
+    - 'Sunday 10:00 am to 3:00 pm'
+    - 'Thursday 10:00 am to 15:00 pm'
   contact_links:
   - icon: twitter
     icon_pack: fab
