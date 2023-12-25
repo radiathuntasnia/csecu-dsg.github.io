@@ -28,7 +28,7 @@ content:
     name: GitHub
     link: 'https://github.com/CSECU-DSG/'
   address:
-    street: Department of Computer Science and Engineering, University of Chittagong                 
+    street: Department of Computer Science & Engineering, University of Chittagong                 
     # - 'Department of Computer Science and Engineering'
     city: Chattogram
     postcode: '4331'
