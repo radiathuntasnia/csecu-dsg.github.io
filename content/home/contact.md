@@ -39,7 +39,7 @@ content:
     longitude: '91.7853'
   office_hours:
     - 'Sunday 10:00 am to 3:00 pm'
-    - 'Thursday 10:00 am to 15:00 pm'
+    - 'Thursday 10:00 am to 3:00 pm'
 
 ---
 
