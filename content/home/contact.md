@@ -43,6 +43,6 @@ content:
 
 ---
 
-If you are interested in NLP, whether you are from industry, academia or the public sector,  please [contact Abu Nowshed Chy](mailto:nowshed@cu.ac.bd) to join our group and/or subscribe to our **mailing list**.
+If you are interested in NLP, whether you are from industry, academia or the public sector,  please contact <b>Abu Nowshed Chy</b> to join our group and/or subscribe to our **mailing list**.
 
 **Follow us** on social media for the latest information and opportunities to join us!
