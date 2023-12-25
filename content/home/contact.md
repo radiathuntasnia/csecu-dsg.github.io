@@ -18,6 +18,15 @@ design:
 content:
   email: csecudsg@gmail.com
   # phone: +49-7071-29-73140
+    contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/csecudsg'
+  - icon: github
+    icon_pack: fab
+    name: GitHub
+    link: 'https://github.com/CSECU-DSG/'
   address:
     street: Department of Computer Science and Engineering, University of Chittagong                 
     # - 'Department of Computer Science and Engineering'
@@ -31,15 +40,6 @@ content:
   office_hours:
     - 'Sunday 10:00 am to 3:00 pm'
     - 'Thursday 10:00 am to 15:00 pm'
-  contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/csecudsg'
-  - icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/CSECU-DSG/'
 
 ---
 
