@@ -18,7 +18,7 @@ design:
 content:
   email: csecudsg@gmail.com
   # phone: +49-7071-29-73140
-    contact_links:
+  contact_links:
   - icon: twitter
     icon_pack: fab
     name: Twitter
