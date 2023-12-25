@@ -19,7 +19,7 @@ content:
   email: csecudsg@gmail.com
   # phone: +49-7071-29-73140
   address:
-    street: University of Chittagong
+    street: Department of Computer Science and Engineering, University of Chittagong
     # - 'Department of Computer Science and Engineering'
     city: Chattogram
     postcode: '4331'
