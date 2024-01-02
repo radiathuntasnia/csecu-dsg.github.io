@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Fareen Tasnim
+title: Fareen Tasneem
 
 # Is this the primary user of the site?
 superuser: true
 
-weight: 70
+weight: 10
 # Role/position
-role: Research Assistant
+role: Research Assistant (Full Time)
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,10 @@ organizations:
 bio: 
 
 interests:
-- Text Simplification
-- Hate Speech Detection
+- Crisis Informatics
+- Multimodal Information Processing
+- Trustworthy NLP
+- Explainable AI
 
 # education:
 #   courses:
@@ -41,27 +43,27 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: globe
-#   icon_pack: fas
-#   link: https://asahiushio.com/
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:barayanas@cardiff.ac.uk'
+- icon: globe
+  icon_pack: fas
+  link: https://fareentasneem.github.io/
+- icon: envelope
+  icon_pack: fas
+  link: 'fareen.cse@std.cu.ac.bd'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=jvyO1boAAAAJ&hl=en
 # - icon: semantic-scholar
 #   icon_pack: ai
 #   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/abdullah-barayan-056861102/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fareen-tasneem/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "fareen.cse@std.cu.ac.bd"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
