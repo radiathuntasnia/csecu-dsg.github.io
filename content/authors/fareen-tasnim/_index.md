@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Text Simplification
+- Hate Speech Detection
 
 # education:
 #   courses:
