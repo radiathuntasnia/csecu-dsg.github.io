@@ -47,9 +47,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://cu.ac.bd/public_profile/index.php?ein=5905
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nowshed@cu.ac.bd'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam

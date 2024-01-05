@@ -48,9 +48,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: https://akram1871.github.io/
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:akram.hossain.cse.cu@gmail.com'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
