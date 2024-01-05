@@ -28,7 +28,7 @@ interests:
 - Multimodal NLP
 - Natural Language Processing
 
-# education:
+education:
 #   courses:
 #   - course: PhD in Computer Science
 #     institution: University of Sheffield
