@@ -36,9 +36,9 @@ interests:
 #   - course: MSc in Computer Science
 #     institution: University of Sao Paulo
 #     year: 2013
-  - course: BSc (Engg.) in Computer Science and Engineering
-    institution: Pontifical Catholic University of Peru
-    year: 2023
+  # - course: BSc (Engg.) in Computer Science and Engineering
+  #   institution: Pontifical Catholic University of Peru
+  #   year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
