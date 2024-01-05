@@ -18,7 +18,7 @@ organizations:
   url: https://cu.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "check"
+bio: check
 
 interests:
 - Information Extraction
@@ -28,7 +28,7 @@ interests:
 - Multimodal NLP
 - Natural Language Processing
 
-education:
+# education:
 #   courses:
 #   - course: PhD in Computer Science
 #     institution: University of Sheffield
