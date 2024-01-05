@@ -26,7 +26,7 @@ interests:
 - Trustworthy NLP
 - Explainable AI
 
-# education:
+education:
 #   courses:
 #   - course: PhD in Computer Science
 #     institution: University of Sheffield
