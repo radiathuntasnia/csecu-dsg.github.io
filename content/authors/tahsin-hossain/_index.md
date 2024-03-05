@@ -6,7 +6,7 @@ title: Tashin Hossain
 superuser: true
 
 # Role/position
-role: Research Assistant (Full Time)
+role: Research Assistant (Full Time) 
 
 weight: 30
 
