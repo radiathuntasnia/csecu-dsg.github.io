@@ -1,5 +1,5 @@
 ---
-title: "BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali Texts" has been accepted on LREC-COLLING 2024 Conference
+title: "BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali Texts has been accepted on LREC-COLLING 2024 Conference"
 authors: [Abu Nowshed Chy]
 publishDate: 2024-02-20T00:00:00Z
 
