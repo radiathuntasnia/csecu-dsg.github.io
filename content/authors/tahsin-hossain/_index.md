@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Tahsin Hossain
+title: Tashin Hossain
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Research Assistant (Full Time)
 
 weight: 30
 
@@ -22,7 +22,10 @@ organizations:
 bio: 
 
 interests:
-- Text Simplification
+- Computational Social Science 
+- Multimodal Information Processing
+- Natural Language Processing 
+- Opinion Mining
 
 # education:
 #   courses:
@@ -41,18 +44,18 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: globe
-#   icon_pack: fas
-#   link: https://asahiushio.com/
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:barayanas@cardiff.ac.uk'
+ - icon: globe
+   icon_pack: fas
+   link: https://colabrun1234.wixsite.com/thresume
+ - icon: envelope
+   icon_pack: fas
+   link: 'mailto:tashin.cse@std.cu.ac.bd'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+ - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=B2nqbK0AAAAJ&hl=en&authuser=2
 # - icon: semantic-scholar
 #   icon_pack: ai
 #   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
@@ -69,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "tashin.cse@std.cu.ac.bd"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
