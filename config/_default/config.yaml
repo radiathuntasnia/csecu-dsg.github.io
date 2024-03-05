@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CSECU-DSG # Website name
-baseurl: 'https://csecu-dsg.github.io/' # Website URL
+baseURL: 'https://csecu-dsg.github.io/' # Website URL
 copyright: '© {year} CSECU-DSG' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -15,15 +15,6 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
 ## ADVANCED
