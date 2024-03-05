@@ -3,7 +3,7 @@ title: "BengaliLCP: A Dataset for Lexical Complexity Prediction in the Bengali T
 authors: [Abu Nowshed Chy]
 publishDate: 2024-02-20T00:00:00Z
 
-# links:
+links:
 # - name: DOI
 #   url: https://doi.org/10.1016/j.nlp.2023.100039
 # - name: Pdf
