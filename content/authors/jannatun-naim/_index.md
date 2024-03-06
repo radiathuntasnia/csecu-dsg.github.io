@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Jannatul Nayem Piyal
+title: Jannatun Naim
 
 # Is this the primary user of the site?
 superuser: true
 
 weight: 60
 # Role/position
-role: Research Assistant
+role: Research Assistant (Full Time)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,11 @@ organizations:
 bio: 
 
 interests:
-- Text Simplification
+- Natural Language Processing
+- Social Computing
+- Multimodal Information Retrieval
+- Opinion mining
+- Educational NLP
 
 # education:
 #   courses:
@@ -40,27 +44,27 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: globe
-#   icon_pack: fas
-#   link: https://asahiushio.com/
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:barayanas@cardiff.ac.uk'
+- icon: globe
+  icon_pack: fas
+  link: https://piyaljannat.github.io/jannat.github.io/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:jannatun.cse@std.cu.ac.bd'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=SVmryi8AAAAJ&hl=en
 # - icon: semantic-scholar
 #   icon_pack: ai
 #   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/abdullah-barayan-056861102/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jannatpiyal/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
