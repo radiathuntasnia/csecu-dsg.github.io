@@ -21,7 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Text Simplification
+- Social Media Analysis
+- Multimodal and Multilingual Information Processing
+- Explainable AI
 - Natural Language processing
 
 # education:
@@ -44,24 +46,24 @@ social:
 # - icon: globe
 #   icon_pack: fas
 #   link: https://asahiushio.com/
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:barayanas@cardiff.ac.uk'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/feralvam
-# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+ - icon: envelope
+   icon_pack: fas
+   link: 'mailto:radiathun.tasnia@gmail.com'
+ - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/radia-tasnia
+ - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=KOjZvLAAAAAJ&hl=en&authuser=2
 # - icon: semantic-scholar
 #   icon_pack: ai
 #   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/abdullah-barayan-056861102/
+ - icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/radia-thun-tasnia-433270172/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
