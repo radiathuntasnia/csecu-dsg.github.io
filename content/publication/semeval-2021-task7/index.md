@@ -10,7 +10,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: 2022-12-16
+date: 2021-08-01
 doi: 
 
 # Schedule page publish date (NOT publication's date).
@@ -23,8 +23,8 @@ publishDate: 2022-12-16T23:41:36Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: " The Association for Computational Linguistics"
-#publication_short: "*ALTA-2022 **[2nd place]***"
+publication: "Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)"
+publication_short: "*SemEval 2021*"
 # **[On review]**
 abstract: "With the emerging trends of using online platforms, peoples are increasingly interested in express their opinion through humorous texts. Identifying and rating humorous texts poses unique challenges to NLP due to subjective phenomena i.e. humor may vary to gender, profession, age, and classes of people. Besides, words with multiple senses, cultural domain, and pragmatic competence also need to be considered. A humorous text may be offensive to others. To address these challenges SemEval-2021 introduced a HaHackathon task focusing on detecting and rating humorous and offensive texts. This paper describes our participation in this task. We employed a stacked embedding and fine-tuned transformer models based classification and regression approach from the features from GPT2 medium, BERT, and RoBERTa transformer models. Besides, we utilized the fine-tuned BERT and RoBERTa models to examine the performances. Our method achieved competitive performances in this task."
 

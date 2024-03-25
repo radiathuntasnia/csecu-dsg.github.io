@@ -11,7 +11,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: 2023-06-01
+date: 2023-07-01
 doi: 
 
 # Schedule page publish date (NOT publication's date).
@@ -24,8 +24,8 @@ doi:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: " The Association for Computational Linguistics"
-#publication_short: "*ALTA-2022 **[2nd place]***"
+publication: "Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)"
+publication_short: "*SemEval 2023*"
 # **[On review]**
 abstract: "Sexism is a harmful phenomenon that provokes gender inequalities and social imbalances. The expanding application of sexist content on social media platforms creates an unwelcoming and discomforting environment for many users. The implication of sexism is a multi-faceted subject as it can be integrated with other categories of discrimination. Binary classification tools are frequently employed to identify sexist content, but most of them provide extensive, generic categories with no further insights. SemEval-2023 introduced the Explainable Detection of Online Sexism (EDOS) task that emphasizes detecting and explaining the category of sexist content. The content of this paper details our involvement in this task where we present a neural network architecture employing document embeddings from a fine-tuned transformer-based model into stacked long short-term memory (LSTM) and a fully connected linear (FCL) layer. Our proposed methodology obtained an F1 score of 0.8218 (ranked 51st) in Task A. It achieved an F1 score of 0.5986 (ranked 40th) and 0.4419 (ranked 28th) in Tasks B and C, respectively."
 

@@ -11,7 +11,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-date: 2023-02-01
+date: 2023-03-03
 doi: 
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Social Network Analysis and Mining"
-#publication_short: "*ALTA-2022 **[2nd place]***"
+publication_short: "*Social Network Analysis and Mining 2023*"
 # **[On review]**
 abstract: "Humor and irony are types of communication that evoke laughter or contain hidden sarcasm. The opportunity to diversely express people’s opinions on social media using humorous content increased its popularity. Due to subjective aspects, humor may vary to gender, profession, generation, and classes of people. Detecting and analyzing humorous and ironic emplacement of informal user-generated content is crucial for various NLP and opinion mining tasks due to its perplexing characteristics. However, due to the idiosyncratic characteristics of informal texts, it is a challenging task to generate an effective representation of texts to understand the inherent contexts properly. In this paper, we propose a neural network architecture that couples a stacked embeddings strategy on top of the LSTM layer for the effective representation of textual context and determine the humorous and ironic orientation of texts in an efficient manner. Here, we perform the stacking of various fine-tuned word embeddings and transformer models including GloVe, ELMo, BERT, and Flair’s contextual embeddings to extract the diversified contextual features of texts. Later, we use the LSTM network on top of it to generate the unified document vector (UDV). Finally, the UDV is passed to the multiple feed-forward linear architectures for attaining the final prediction labels. We present the performance analysis of our proposed approach on benchmark datasets of English and Spanish language. Experimental outcomes exhibited the preponderance of our model over most of the state-of-the-art methods."
 
